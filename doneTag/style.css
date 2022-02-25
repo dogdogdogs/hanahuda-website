@@ -1,0 +1,12 @@
+/* common */
+body {
+  margin: 0;
+}
+h1 {
+  margin: 0;
+  line-height: 100px;
+}
+.header {
+  text-align: center;
+}
+/* common */
