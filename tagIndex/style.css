@@ -12,13 +12,16 @@ h1 {
 ul {
   margin: 0;
   padding: 0;
+  display: flex;
 }
-
-/* common */
-.content ul li {
+.main-content > ul, li {
   display: flex;
   display: inline-block;
-  width: 200px;
+  margin: 12px;
+  padding: 20px;
+  background-color: black;
+  border-radius: 32px;
+}
+img {
   margin: 0;
-  padding: 0;
 }
